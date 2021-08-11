@@ -48,5 +48,18 @@ h1, h2 {
     border-bottom: 2px solid #D93D04;
 }
 #list a:active {
-    color: #D93D04
+    color: #838383
+}
+
+#hero-image {
+    height:600px;
+    width: 75%;
+    background: no-repeat left;
+}
+
+#content {
+    padding: 25px 10px 25px 10px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    box-sizing: border-box;
 }
