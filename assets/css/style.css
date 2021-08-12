@@ -52,17 +52,19 @@ h1, h2 {
 }
 
 #hero-image {
-    height:400px;
-    width: 60%;
-    background: no-repeat center;
+  width: 100%;
+  min-height: 580px;
+  background: center no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 80px 10px;
 }
 
 .content {
-    padding: 25px 10px;
-    letter-spacing: 2px;
-    font-weight: 400;
-    border: 1px solid orangered;
-    box-sizing: border-box;
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  padding: 80px 10px;
 }
 
 .div-content a {
@@ -95,9 +97,15 @@ h1, h2 {
     padding: 25px 20px;
 }
 
+.grid-main {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
   grid-gap: 10px;
   padding: 10px;
 }
+
