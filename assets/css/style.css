@@ -57,20 +57,47 @@ h1, h2 {
     background: no-repeat center;
 }
 
-#content {
-    padding: 25px 10px 25px 10px;
-    letter-spacing: 1px;
+.content {
+    padding: 25px 10px;
+    letter-spacing: 2px;
     font-weight: 400;
+    border: 1px solid orangered;
     box-sizing: border-box;
 }
 
-#div-content a {
-    padding: 25px 10px 25px 10px;
+.div-content a {
+    padding: 25px 10px;
     height: 50px;
     text-decoration: none;
 }
 
-#div-content {
+.div-content {
     text-align: center;
     text-decoration: none;
+}
+
+.content-img {
+  margin-top: 25px;
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.content-p {
+  padding: 25px 20px;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
+
+.div-content h2 {
+    height: 10px;
+    padding: 25px 20px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
 }
