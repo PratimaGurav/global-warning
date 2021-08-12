@@ -52,9 +52,9 @@ h1, h2 {
 }
 
 #hero-image {
-    height:600px;
-    width: 75%;
-    background: no-repeat left;
+    height:400px;
+    width: 60%;
+    background: no-repeat center;
 }
 
 #content {
@@ -62,4 +62,15 @@ h1, h2 {
     letter-spacing: 1px;
     font-weight: 400;
     box-sizing: border-box;
+}
+
+#div-content a {
+    padding: 25px 10px 25px 10px;
+    height: 50px;
+    text-decoration: none;
+}
+
+#div-content {
+    text-align: center;
+    text-decoration: none;
 }
