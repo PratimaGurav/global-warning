@@ -139,20 +139,22 @@ footer {
     top: 80px;
     border: 2px solid #400101;    
 }
-
+.box {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    grid-gap: 10px;
+}
 div.desc {
-    padding: 15px;
-    text-align: center;
-}
-
-div.box {
-    margin: 15px;
     border: 1px solid #400101;
-    float: left;
-    width: 100px;
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 400;
 }
 
-div.img {
-    width: 50%;
-    height: 50%;
+.img {
+  width: 400px;
+  height: 400px;
+  margin-top: 250px
 }
