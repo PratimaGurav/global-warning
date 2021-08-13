@@ -60,7 +60,7 @@ h1, h2 {
     background-color: black;
     color: white;
     padding: 20px;
-    bottom: 70px;
+    bottom: 100px;
     left: 15px;
     right: 885px; 
 }
@@ -94,10 +94,6 @@ h1, h2 {
 .div-content h2 {
     height: 10px;
     padding: 25px 20px;
-}
-
-.grid-main{
-    position: relative;
 }
 
 .grid-container {
@@ -135,4 +131,28 @@ footer {
 #footer {
     text-align: center;
     color: #D93D04;
+}
+
+#second-main {
+    position: absolute;
+    padding: 10px;
+    top: 80px;
+    border: 2px solid #400101;    
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+div.box {
+    margin: 15px;
+    border: 1px solid #400101;
+    float: left;
+    width: 100px;
+}
+
+div.img {
+    width: 50%;
+    height: 50%;
 }
