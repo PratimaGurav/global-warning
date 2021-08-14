@@ -135,7 +135,7 @@ footer {
 
 #second-main {
     position: absolute;
-    padding: 10px;
+    padding: 20px;
     top: 80px;
     border: 2px solid #400101;    
 }
@@ -150,11 +150,24 @@ div.desc {
     padding: 20px;
     text-align: center;
     letter-spacing: 2px;
-    font-weight: 400;
+    font-weight: 200;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    float: left;
 }
 
-.img {
-  width: 400px;
-  height: 400px;
-  margin-top: 250px
+.first, .second, .third{
+    padding: 140px 5px 0px 10px;
+}
+.first>img, 
+.second>img, 
+.third>img {
+    width: 400px;
+	height: 400px;
+	object-fit: cover;
 }
