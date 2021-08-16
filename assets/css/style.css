@@ -103,6 +103,11 @@ h1, h2 {
   padding: 10px;
 }
 
+.grid-container div:hover {
+    background-color: #b6f542;
+    color: #BF7960;
+}
+
 .left, .center, .right{
     border-style: solid;
     border-radius: 5px;
@@ -193,7 +198,6 @@ div.desc {
 }
  
 .text-input {
-    background: transparent;
     color: #fafafa;
     width: 100%;
     height: 25px;
