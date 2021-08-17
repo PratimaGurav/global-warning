@@ -83,6 +83,7 @@ h1, h2 {
 }
 
 .content-img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-top: 10px;
   width: 300px;
   height: 300px;
@@ -119,11 +120,11 @@ h1, h2 {
     border-radius: 5px;
     margin: 0 auto;
 }
+
 /*footer*/
 footer {
-    height: 150px;
+    height: 80px;
 }
-
 .social-networks {
     text-align: center;
 }
@@ -133,15 +134,21 @@ footer {
 }
 
 .social-networks i {
-    font-size: 160%;
+    font-size: 180%;
     margin: 1%;
     padding: 5%;
     color: #D93D04;
 }
 
-#footer {
+.footer {
+    text-align: center; 
+    color: #D93D04;
+}
+
+.info {
     text-align: center;
     color: #D93D04;
+    font-size: 120%;
 }
 /*styling sec, third and fourth pages*/
 #second-main {
@@ -159,7 +166,7 @@ footer {
 }
 div.desc {
     border: 2px solid #400101;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     letter-spacing: 2px;
     font-weight: 200;
