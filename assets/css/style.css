@@ -244,3 +244,17 @@ div.desc {
     background-color: #D93D04;
     color: #400101;
 }
+
+@media screen and (max-width: 1200px) {
+.content {
+    width: 65%;
+    height: auto;
+    margin: 0px auto;
+}
+.grid-container {
+    grid-template-columns: 1fr;
+    padding: 0;
+    display: inline;
+    padding: 5px;
+}
+}
