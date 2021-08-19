@@ -257,4 +257,27 @@ div.desc {
     display: inline;
     padding: 5px;
 }
+#second-main {
+    padding: 0;
+    width: 100%;
+    height: auto;
+    margin: 50px 0;
+}
+
+.container{
+    display: inline;
+    padding: 0%;
+    margin: 50px 0;
+}
+
+.box{
+    width: 100%;
+    clear: both;
+    height: fit-content;
+    padding: 0;
+    display: inherit;
+}
+
+
+
 }
