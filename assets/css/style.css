@@ -176,16 +176,24 @@ div.description {
     float: left;
 }
 
-.first, .second, .third{
-    padding: 130px 5px 0px 5px;
+.first, .second, .third {
+    padding: 120px 5px 0px 5px;
+}
+.fourth, .fifth, .sixth {
+    padding: 5px;
 }
 .first>img, 
 .second>img, 
-.third>img {
+.third>img,
+.fourth>img,
+.fifth>img,
+.sixth>img{
     width: 400px;
 	height: 400px;
 	object-fit: cover;
 }
+   
+
 
 /* Form */
 #image {
