@@ -119,7 +119,7 @@ h1, h2 {
 
 /*footer*/
 footer {
-    height: 80px;
+    height: 20px;
 }
 .social-networks {
     text-align: center;
@@ -132,7 +132,7 @@ footer {
 .social-networks i {
     font-size: 180%;
     margin: 1%;
-    padding: 5%;
+    padding: 2%;
     color: #D93D04;
 }
 
