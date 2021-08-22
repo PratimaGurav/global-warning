@@ -157,7 +157,7 @@ footer {
 }
 .box {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(3, minmax(0, 1fr)); minmax(0, 1fr);
     padding:0px 10px;
     grid-gap: 10px;
 }
