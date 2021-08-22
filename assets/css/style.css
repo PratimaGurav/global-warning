@@ -156,9 +156,10 @@ footer {
 }
 .box {
     display: grid;
-    grid-template-columns: auto auto auto;
-    padding: 10px;
-    grid-gap: 10px;
+    grid-template-columns: repeat(3, minmax(0, 1fr)); minmax(0, 1fr);
+    padding: 2px;
+    grid-gap: 5px;
+    float: left;
 }
 div.description {
     border: 2px solid #400101;
@@ -171,13 +172,14 @@ div.description {
 }
 .container {
     display: grid;
-    grid-template-columns: auto auto auto;
-    padding: 10px;
+    grid-template-columns: repeat(3, minmax(0, 1fr)); minmax(0, 1fr);
+    padding: 5px;
+    grid-gap: 5px;
     float: left;
 }
 
-.first, .second, .third {
-    padding: 120px 5px 0px 5px;
+.first, .second, .third{
+    padding: 120px 10px 0px 10px;
 }
 .fourth, .fifth, .sixth {
     padding: 5px;
