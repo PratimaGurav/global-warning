@@ -76,6 +76,7 @@ h1, h2 {
 .div-content {
     text-align: center;
     text-decoration: none;
+    padding: 5px 10px 0px 10px;
 }
 
 .content-img {
@@ -88,7 +89,7 @@ h1, h2 {
 }
 
 .content-p {
-  padding: 25px 20px;
+  padding: 15px 10px;
   letter-spacing: 2px;
   font-weight: 400;
   color: #400101;
@@ -96,7 +97,7 @@ h1, h2 {
 
 .div-content h2 {
     height: 10px;
-    padding: 25px 20px;
+    padding: 15px 10px;
 }
 
 .grid-container {
@@ -149,37 +150,34 @@ footer {
 /*styling sec, third and fourth pages*/
 #second-main {
     position: absolute;
-    padding: 5px 30px;
+    padding: 5px 50px 10px 10px;
     top: 80px;
     border: 2px solid #400101;  
-    border-radius: 5px; 
+    border-radius: 3px; 
 }
 .box {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr)); minmax(0, 1fr);
-    padding: 2px;
-    grid-gap: 5px;
-    float: left;
+    grid-template-columns: auto auto auto;
+    padding:0px 10px;
+    grid-gap: 10px;
 }
 div.description {
     border: 2px solid #400101;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     letter-spacing: 2px;
     font-weight: 200;
-    border-radius: 5px;
+    border-radius: 3px;
     margin: 0 auto;
 }
 .container {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr)); minmax(0, 1fr);
-    padding: 5px;
-    grid-gap: 5px;
+    padding: 10px;
     float: left;
 }
-
 .first, .second, .third{
-    padding: 120px 10px 0px 10px;
+    padding: 120px 5px 0px 5px;
 }
 .fourth, .fifth, .sixth {
     padding: 5px;
@@ -193,6 +191,8 @@ div.description {
     width: 400px;
 	height: 400px;
 	object-fit: cover;
+    border: 2px solid #400101;
+    border-radius: 3px;
 }
    
 
