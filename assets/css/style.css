@@ -160,7 +160,7 @@ footer {
     grid-template-columns: repeat(3, minmax(0, 1fr)); minmax(0, 1fr);
     padding:0px 10px;
     grid-gap: 10px;
-}
+} 
 div.description {
     border: 2px solid #400101;
     padding: 5px;
@@ -172,7 +172,7 @@ div.description {
 }
 .container {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr)); minmax(0, 1fr);
+    grid-template-columns: auto auto auto auto;
     padding: 10px;
     float: left;
 }
