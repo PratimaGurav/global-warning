@@ -133,7 +133,7 @@ footer {
 .social-networks i {
     font-size: 180%;
     margin: 1%;
-    padding: 2%;
+    padding: 1%;
     color: #D93D04;
 }
 
@@ -146,6 +146,7 @@ footer {
     text-align: center;
     color: #D93D04;
     font-size: 120%;
+    padding: 1px;
 }
 /*styling sec, third and fourth pages*/
 #second-main {
@@ -155,12 +156,6 @@ footer {
     border: 2px solid #400101;  
     border-radius: 3px; 
 }
-.box {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr)); minmax(0, 1fr);
-    padding:0px 10px;
-    grid-gap: 10px;
-} 
 div.description {
     border: 2px solid #400101;
     padding: 5px;
@@ -177,7 +172,7 @@ div.description {
     float: left;
 }
 .first, .second, .third{
-    padding: 120px 5px 0px 5px;
+    padding: 100px 5px 0px 5px;
 }
 .fourth, .fifth, .sixth {
     padding: 5px;
@@ -191,12 +186,8 @@ div.description {
     width: 400px;
 	height: 400px;
 	object-fit: cover;
-    border: 2px solid #400101;
-    border-radius: 3px;
 }
    
-
-
 /* Form */
 #image {
     background-size: cover;
