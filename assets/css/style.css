@@ -120,7 +120,7 @@ h1, h2 {
 
 /*footer*/
 footer {
-    height: 20px;
+    height: 50px;
 }
 .social-networks {
     text-align: center;
@@ -145,8 +145,8 @@ footer {
 .info {
     text-align: center;
     color: #D93D04;
-    font-size: 120%;
-    padding: 1px;
+    font-size: 180%;
+    padding: 5px;
 }
 /*styling sec, third and fourth pages*/
 #second-main {
@@ -156,6 +156,7 @@ footer {
     border: 2px solid #400101;  
     border-radius: 3px; 
 }
+
 div.description {
     border: 2px solid #400101;
     padding: 5px;
@@ -167,16 +168,18 @@ div.description {
 }
 .container {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto;
     padding: 10px;
+    grid-gap: 5px;
     float: left;
 }
+
 .first, .second, .third{
     padding: 100px 5px 0px 5px;
 }
 .fourth, .fifth, .sixth {
     padding: 5px;
-}
+} 
 .first>img, 
 .second>img, 
 .third>img,
