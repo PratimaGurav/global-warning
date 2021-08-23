@@ -160,14 +160,14 @@ footer {
 div.description {
     text-align: center;
     letter-spacing: 3px;
-    font-weight: 200;
+    font-weight: 300;
     border-radius: 3px;
     margin: 0 auto;
 }
 .container {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    grid-gap: 10px;
+    grid-gap: 5px;
     padding: 10px;
     float: left;
 }
@@ -175,7 +175,7 @@ div.description {
 .container-b{
     display: grid;
     grid-template-columns: auto auto auto auto;
-    grid-gap: 10px;
+    grid-gap: 5px;
     padding: 10px;
 }
 
