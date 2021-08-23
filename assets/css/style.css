@@ -131,7 +131,7 @@ footer {
 }
 
 .social-networks i {
-    font-size: 180%;
+    font-size: 200%;
     margin: 1%;
     padding: 1%;
     color: #D93D04;
@@ -145,7 +145,7 @@ footer {
 .info {
     text-align: center;
     color: #D93D04;
-    font-size: 180%;
+    font-size: 150%;
     padding: 5px;
 }
 /*styling sec, third and fourth pages*/
@@ -158,27 +158,34 @@ footer {
 }
 
 div.description {
-    border: 2px solid #400101;
-    padding: 5px;
     text-align: center;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     font-weight: 200;
     border-radius: 3px;
     margin: 0 auto;
 }
 .container {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
     padding: 10px;
-    grid-gap: 5px;
     float: left;
 }
 
+.container-b{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+}
+
 .first, .second, .third{
-    padding: 100px 5px 0px 5px;
+    margin: 100px 5px 0px 5px;
+    border: 2px solid #400101;
 }
 .fourth, .fifth, .sixth {
-    padding: 5px;
+    margin: 5px;
+    border: 2px solid #400101;
 } 
 .first>img, 
 .second>img, 
