@@ -269,21 +269,13 @@ div.description {
     padding: 0;
     width: 100%;
     height: auto;
-    margin: 50px 0;
+    margin: 5px;
 }
 
 .container{
     display: inline;
     padding: 0%;
     margin: 50px 0;
-}
-
-.box{
-    width: 100%;
-    clear: both;
-    height: fit-content;
-    padding: 0;
-    display: inherit;
 }
 
 .form {
