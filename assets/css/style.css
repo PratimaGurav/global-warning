@@ -62,7 +62,7 @@ h1, h2 {
     background-color: white;
     color: inherit;
     padding: 20px;
-    bottom: 100px;
+    bottom: 200px;
     left: 15px;
     right: 885px; 
 }
@@ -299,7 +299,6 @@ br {
         width: 65%;
         height: auto;
         margin: 0px auto;
-        bottom: 100px;
     }
     #second-main {
         padding: 0;
