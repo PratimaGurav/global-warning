@@ -21,5 +21,9 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
     -   #### Frequent User 
         1. To sign up to the Weekly Newsletter so that you receive any major updates to the website.
-        2. To check to see if there are any new blog/information posts available.   
+        2. To check to see if there are any new blog/information posts available.
+
+-   ### Design
+    -   #### Colour Scheme
+        The main colours used are Dark Chocolate, Sinopia, Green Lizard and Deer.   
 
