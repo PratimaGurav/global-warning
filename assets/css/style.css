@@ -251,7 +251,8 @@ div.description {
     background-color: #D93D04;
     color: #400101;
 }
-
+/*Media queries*/
+/*For larger to medium screens size from 1200px wide and down*/
 @media screen and (max-width: 1200px) {
 .content {
     width: 65%;
@@ -278,14 +279,6 @@ div.description {
     margin: 0px;
     text-align: center;
 }
-
-/*.container-b {
-    display: inline-block;
-    padding: 50px;
-    margin: 0px;
-    text-align: center;
-} */
-
 .form {
     padding: 10px;
     height: fit-content;
@@ -299,5 +292,16 @@ br {
 }
 /*For medium screen sizes from 950px wide and down*/
 @media screen and (max-width: 950px) { 
-    
+    .content {
+        width: 65%;
+        height: auto;
+        margin: 0px auto;
+        bottom: 100px;
+    }
+    #second-main {
+        padding: 0;
+        width: 90%;
+        height: auto;
+        margin: 50px 40px 10px;
+    }
 }
