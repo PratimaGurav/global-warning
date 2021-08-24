@@ -32,5 +32,12 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
     -   #### Imagery
         Images are important to strike and catch users attentions. Large background hero image is used. Also images are used to describe the causes, effects and sloutions. 
-            
+
+*   ### Wireframes
+
+    -   Home Page Wireframe - 
+
+    -   Causes, Effects and Solution Pages Wireframe - 
+
+    -   Sign Up Page Wireframe - 
 
