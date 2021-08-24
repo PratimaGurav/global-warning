@@ -257,6 +257,7 @@ div.description {
     width: 65%;
     height: auto;
     margin: 0px auto;
+    bottom: 200px;
 }
 .grid-container {
     grid-template-columns: 1fr;
