@@ -254,11 +254,14 @@ div.description {
 /*Media queries*/
 /*For larger to medium screens size from 1200px wide and down*/
 @media screen and (max-width: 1200px) {
+#hero-image {
+    position: relative;
+}
 .content {
+    left: 0;
     width: 65%;
     height: auto;
     margin: 0px auto;
-    bottom: 200px;
 }
 .grid-container {
     grid-template-columns: 1fr;
@@ -294,8 +297,9 @@ br {
 }
 }
 /*For medium screen sizes from 950px wide and down*/
-@media screen and (max-width: 950px) { 
+@media screen and (max-width: 950px) {  
     .content {
+        left: 0;
         width: 65%;
         height: auto;
         margin: 0px auto;
@@ -312,4 +316,20 @@ br {
         width: 50%;
         top: 300px;
     } 
+}
+
+/* For small screen sizes 800px and down */
+@media screen and (max-width: 800px) {   
+    .content {
+        width: 65%;
+        height: auto;
+        margin: 0px auto;
+        bottom: 400px;
+    }
+    #list {
+        list-style-type: none;
+        float: right;
+        margin-right: 15px;
+    
+    }
 }
