@@ -55,6 +55,7 @@ h1, h2 {
 #hero-image {
   width: 100%;
   height: 500px;
+  position: relative;
 }
 
 .content {
@@ -268,22 +269,25 @@ div.description {
 }
 #second-main {
     padding: 0;
-    width: 90%;
     height: auto;
     margin: 15px 40px 10px;
 }
 
-.container, .container-b {
+.container,.container-b{
     display: inline-block;
     padding: 50px;
     margin: 0px;
     text-align: center;
 }
+.fourth, .fifth, .sixth{
+    margin: 100px 5px 0px
+}
+
 .form {
     padding: 10px;
     height: fit-content;
     width: 50%;
-    bottom: 100px;
+    bottom: 500px;
 } 
 
 br {
@@ -304,4 +308,10 @@ br {
         height: auto;
         margin: 50px 40px 10px;
     }
+    .form {
+        padding: 10px;
+        height: fit-content;
+        width: 50%;
+        top: 300px;
+    } 
 }
