@@ -11,6 +11,15 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
 -   ### User stories
 
-    -   #### First Time Visitor Goals
-        1. The main purpose of the site is to create awareness amongst every individual regarding Global Warming.
-        
+    -   #### First Time Visitor
+        1. To create awareness amongst every individual regarding Global Warming.
+        2. Easy navigation throughout the site to find and read the content.
+
+    -   #### Returning Visitor
+        1. Easy access to the information about the causes, effects and solutions.
+        2. To instantly know the navigation.   
+
+    -   #### Frequent User 
+        1. To sign up to the Weekly Newsletter so that you receive any major updates to the website.
+        2. To check to see if there are any new blog/information posts available.   
+
