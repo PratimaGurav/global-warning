@@ -25,5 +25,8 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
 -   ### Design
     -   #### Colour Scheme
-        The main colours used are Dark Chocolate, Sinopia, Green Lizard and Deer.   
+        The main colours used are Dark Chocolate, Sinopia, Green Lizard and Deer.  
+    
+    -   #### Typography     
+        The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Merriweather font is used for headings with Sans Serif as the fallback.
 
