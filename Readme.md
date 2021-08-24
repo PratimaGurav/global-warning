@@ -30,3 +30,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
     -   #### Typography     
         The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Merriweather font is used for headings with Sans Serif as the fallback.
 
+    -   #### Imagery
+        Images are important to strike and catch users attentions. Large background hero image is used. Also images are used to describe the causes, effects and sloutions. 
+            
+
