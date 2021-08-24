@@ -267,16 +267,24 @@ div.description {
 }
 #second-main {
     padding: 0;
-    width: 100%;
+    width: 90%;
     height: auto;
-    margin: 5px;
+    margin: 15px 40px 10px;
 }
 
-.container{
-    display: inline;
-    padding: 0%;
-    margin: 50px 0;
+.container, .container-b {
+    display: inline-block;
+    padding: 50px;
+    margin: 0px;
+    text-align: center;
 }
+
+/*.container-b {
+    display: inline-block;
+    padding: 50px;
+    margin: 0px;
+    text-align: center;
+} */
 
 .form {
     padding: 10px;
