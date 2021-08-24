@@ -62,7 +62,7 @@ h1, h2 {
     background-color: white;
     color: inherit;
     padding: 20px;
-    bottom: 200px;
+    bottom: 500px;
     left: 15px;
     right: 885px; 
 }
@@ -151,10 +151,11 @@ footer {
 /*styling sec, third and fourth pages*/
 #second-main {
     position: absolute;
-    padding: 5px 50px 10px 10px;
+    padding: 5px 20px 0px 10px;
     top: 80px;
-    border: 2px solid #400101;  
-    border-radius: 3px; 
+    border: 2px solid #400101;
+    border-radius: 3px;
+    margin: 10px;
 }
 
 div.description {
@@ -166,10 +167,12 @@ div.description {
 }
 .container {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto;
     grid-gap: 5px;
     padding: 10px;
     float: left;
+    text-align: center;
+    margin-top: 10px;
 }
 
 .container-b{
@@ -177,6 +180,7 @@ div.description {
     grid-template-columns: auto auto auto auto;
     grid-gap: 5px;
     padding: 10px;
+    text-align: center;
 }
 
 .first, .second, .third{
