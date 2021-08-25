@@ -342,13 +342,13 @@ br {
     } 
 }
 
-/* For small screen sizes 750px and down */
-@media screen and (max-width: 750px) {   
+/* For small screen sizes 800px and down */
+@media screen and (max-width: 800px) {   
     .content {
         width: 65%;
         height: auto;
         margin: 0px auto;
-        bottom: 100px;
+        bottom: 400px;
     }
     #list {
         list-style-type: none;
