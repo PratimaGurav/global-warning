@@ -283,9 +283,10 @@ div.description {
 }
 .content {
     left: 0;
-    width: 65%;
+    width: 40%;
     height: auto;
     margin: 0px auto;
+    bottom: 500px;
 }
 .grid-container {
     grid-template-columns: 1fr;
