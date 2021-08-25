@@ -114,7 +114,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-### Frameworks, Libraries & Programs Used
+## Frameworks, Libraries & Programs Used
 
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the font into the style.css file which is used on all pages throughout the project.
@@ -135,5 +135,27 @@ Global Warning is the informative site explaning the dangerous effect and causes
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](assets/docs/HTML-validator.png)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](assets/docs/CSS-Validator.png)   
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](assets/docs/CSS-Validator.png)  
+
+ ### Lighthouse Results
+
+- __The Landing(Home)Page__
+  - [Desktop](assets/docs/LHDindex.png)
+  - [Mobile](assets/docs/LHMindex.png)
+
+  - __The Causes__
+  - [Desktop](assets/docs/LHDcauses.png)
+  - [Mobile](assets/docs/LHMcauses.png)
+
+  - __The Effects__
+  - [Desktop](assets/docs/LHDeffects.png)
+  - [Mobile](assets/docs/LHMeffects.png)
+
+  - __The Solutions__
+  - [Desktop](assets/docs/LHDsolutions.png)
+  - [Mobile](assets/docs/LHMsolutions.png)
+
+  - __The Sign-Up__
+  - [Desktop](assets/docs/LHDsignup.png)
+  - [Mobile](assets/docs/LHMsignup.png)
 
