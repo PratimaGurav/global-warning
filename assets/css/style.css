@@ -55,6 +55,7 @@ h1, h2 {
 #hero-image {
   width: 100%;
   height: 500px;
+  position: relative;
 }
 
 .content {
@@ -216,9 +217,10 @@ div.description {
     background-color: white;
     color: #D93D04;
     padding: 20px;
-    bottom: 50px;
+    bottom: 250px;
     left: 50px;
-    right: 850px;
+    right: 950px;
+    height: fit-content;
 }
  
 .text-input {
