@@ -128,5 +128,12 @@ Global Warning is the informative site explaning the dangerous effect and causes
     - Balsamiq was used to create the [Add wireframes] during the design process. 
 6. [Wikipedia:](https://www.wikipedia.org/)
    [Google:](https://www.google.com/)
-    - Wikipedia and Google was used to gather information about the project.        
+    - Wikipedia and Google was used to gather information about the project.    
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](assets/docs/HTML-validator.png)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](assets/docs/CSS-Validator.png)   
 
