@@ -32,9 +32,6 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
     -   #### Imagery
         Images are important to strike and catch users attentions. Large background hero image is used. Also images are used to describe the causes, effects and sloutions. All Images used within this site have been provided by [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/) and [Stockvault](https://www.stockvault.net/). These images are  free and do not incur any copyright issues.
-    
-*   ### Content
-        Page content is static and was taken from [Wikipedia](https://www.wikipedia.org/) and [Google](https://google.com/). 
 
 *   ### Wireframes
 
@@ -118,4 +115,18 @@ Global Warning is the informative site explaning the dangerous effect and causes
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries & Programs Used
+
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the font into the style.css file which is used on all pages throughout the project.
+2. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+3. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+4. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.   
+5. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [Add wireframes] during the design process. 
+6. [Wikipedia:](https://www.wikipedia.org/)
+   [Google:](https://www.google.com/)
+    - Wikipedia and Google was used to gather information about the project.        
 
