@@ -265,7 +265,7 @@ div.description {
         width: 30%;
         height: auto;
         margin: 0px auto;
-        left: 5;
+        left: 0px;
     }
     .form {
         padding: 10px;
@@ -282,7 +282,7 @@ div.description {
     position: relative;
 }
 .content {
-    left: 0;
+    left: 0px;
     width: 40%;
     height: auto;
     margin: 0px auto;
