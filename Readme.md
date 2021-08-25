@@ -47,6 +47,21 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
 -   Interactive elements
 
+### Existing Features
+
+- __Navigation Bar__
+
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Causes, Effects, Solutions and Sign Up and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button.
+  
+  ![Nav Bar](/assets/docs/nav-bar.png)
+
+- __The landing page image__
+
+  - The landing includes a photograph with text overlay to allow the user to know about Global Warming.
+
+  ![Landing Page](/assets/docs/Hero-Image-Content.png)
+
 ## Technologies Used
 
 ### Languages Used
