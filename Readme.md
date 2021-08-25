@@ -71,11 +71,18 @@ Global Warning is the informative site explaning the dangerous effect and causes
 - __The Footer__ 
 
   - The footer section includes link to a short video giving more information about Global Warming. The link will open to a new tab to allow easy navigation for the user.    
-  - It also includes links to the relevant social media sites for Global Warning. These links will also open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to stay connected via social media.
+  - It also includes links to the relevant social media sites for Global Warning. These links will also open to a new tab to allow easy navigation for the user. And is valuable to the user as it encourages them to stay connected via social media.
+  - The footer is identical on each page for easy access.
 
   ![The Footer](/assets/docs/footer.png)
-  
+
+- __The Causes__ 
+  - This section inlcudes explantion about the major causes of Global Warming.
+  - It also includes supportive images and short description about each making it easier for the user to understand.
+
+  ![The Causes](/assets/docs/Causes-a.png)
+  ![The Causes](/assets/docs/Causes-b.png)
+
 
 
 ## Technologies Used
