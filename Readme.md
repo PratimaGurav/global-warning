@@ -31,7 +31,10 @@ Global Warning is the informative site explaning the dangerous effect and causes
         The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Merriweather font is used for headings with Sans Serif as the fallback.
 
     -   #### Imagery
-        Images are important to strike and catch users attentions. Large background hero image is used. Also images are used to describe the causes, effects and sloutions. 
+        Images are important to strike and catch users attentions. Large background hero image is used. Also images are used to describe the causes, effects and sloutions. All Images used within this site have been provided by [Pexels](https://www.pexels.com/) [Pixabay](https://pixabay.com/) and [Stockvault](https://www.stockvault.net/). These images are  free and do not incur any copyright issues.
+    
+*   #### Content
+        Page content is static and was taken from [Wikipedia](https://www.wikipedia.org/) and [Google](https://google.com/). 
 
 *   ### Wireframes
 
@@ -107,14 +110,12 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
   ![The Sign Up](/assets/docs/Sign-up.png)
 
-
-
-
-
-
 ## Technologies Used
 
 ### Languages Used
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
