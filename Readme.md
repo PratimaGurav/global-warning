@@ -77,11 +77,20 @@ Global Warning is the informative site explaning the dangerous effect and causes
   ![The Footer](/assets/docs/footer.png)
 
 - __The Causes__ 
-  - This section inlcudes explantion about the major causes of Global Warming.
+  - This page inlcudes explantion and the major causes of Global Warming.
   - It also includes supportive images and short description about each making it easier for the user to understand.
 
   ![The Causes](/assets/docs/Causes-a.png)
   ![The Causes](/assets/docs/Causes-b.png)
+
+- __The Effects__ 
+  - This page inlcudes explantion and the major effects of Global Warming.
+  - It also includes supportive images and short description about each making it easier for the user to understand.
+
+  ![The Effects](/assets/docs/Effects-a.png)
+  ![The Effects](/assets/docs/Effects-b.png)
+
+
 
 
 
