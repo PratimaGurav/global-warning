@@ -77,6 +77,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
   ![The Footer](/assets/docs/footer.png)
 
 - __The Causes__ 
+
   - This page inlcudes explanation and the major causes of Global Warming.
   - It also includes supportive images and short description about each making it easier for the user to understand.
 
@@ -84,6 +85,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
   ![The Causes](/assets/docs/Causes-b.png)
 
 - __The Effects__ 
+
   - This page inlcudes explanation and the major effects of Global Warming.
   - It also includes supportive images and short description about each making it easier for the user to understand.
 
@@ -91,11 +93,20 @@ Global Warning is the informative site explaning the dangerous effect and causes
   ![The Effects](/assets/docs/Effects-b.png)
 
 - __The Solutions__ 
+
   - This page inlcudes explanation and few solutions of Global Warming.
   - It provides simplified ways to tackle the issue which can be followed by each one in their day to day life.
 
   ![The Solutions](/assets/docs/Solutions-a.png)
   ![The Solutions](/assets/docs/Solutions-b.png)
+
+- __The Sign Up Page__
+
+  - This page will allow the user to get signed up for weekly newsletter. The user can sign up by providing basic details like full name, email address and comments.
+  - Once signed up the user will be receive latest updates about the website.
+
+  ![The Sign Up](/assets/docs/Sign-up.png)
+
 
 
 
