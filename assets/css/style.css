@@ -261,7 +261,7 @@ div.description {
 /*For larger to medium screens size from 1300px wide and down*/
 @media screen and (max-width: 1300px) {
     .content {
-        bottom: 200px;
+        bottom: 300px;
         width: 30%;
         height: auto;
         margin: 0px auto;
