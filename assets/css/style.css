@@ -351,6 +351,11 @@ br {
     #hero-image {
         position: relative;
     }
+    .content-img {
+        text-align: center;
+        width: 250px;
+        height: 250px;
+    }
     #second-main {
         width: 80%;
         height: auto;
@@ -391,5 +396,6 @@ br {
     width: 60%;
     top: 400px;
 } 
+
 
 }
