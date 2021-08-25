@@ -159,3 +159,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   - [Desktop](assets/docs/LHDsignup.png)
   - [Mobile](assets/docs/LHMsignup.png)
 
+  ### Further Testing
+
+  -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+  -   The website was viewed on a variety of devices such as Desktop, Laptop, iPad, iPhone6, iPhone7  & iPhone8.
+  -   A large amount of testing was done to ensure that all pages were linking correctly.
+  -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
