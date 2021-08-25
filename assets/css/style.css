@@ -258,6 +258,24 @@ div.description {
     color: #400101;
 }
 /*Media queries*/
+/*For larger to medium screens size from 1300px wide and down*/
+@media screen and (max-width: 1300px) {
+    .content {
+        bottom: 200px;
+        width: 30%;
+        height: auto;
+        margin: 0px auto;
+        left: 5;
+    }
+    .form {
+        padding: 10px;
+        height: fit-content;
+        width: 30%;
+        top: 200px;
+    } 
+}
+
+
 /*For larger to medium screens size from 1200px wide and down*/
 @media screen and (max-width: 1200px) {
 #hero-image {
