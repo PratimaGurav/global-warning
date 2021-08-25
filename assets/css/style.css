@@ -120,7 +120,7 @@ h1, h2 {
 
 /*footer*/
 footer {
-    height: 50px;
+    height: 80px;
 }
 .social-networks {
     text-align: center;
@@ -131,7 +131,7 @@ footer {
 }
 
 .social-networks i {
-    font-size: 200%;
+    font-size: 180%;
     margin: 1%;
     padding: 1%;
     color: #D93D04;
@@ -146,7 +146,7 @@ footer {
     text-align: center;
     color: #D93D04;
     font-size: 150%;
-    padding: 5px;
+    padding: 2px;
 }
 /*styling sec, third and fourth pages*/
 #second-main {
