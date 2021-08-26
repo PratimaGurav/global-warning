@@ -191,8 +191,16 @@ The project was deployed to GitHub Pages using the following steps...
 2. To clone the repository using HTTPS, click Code and copy the address. [Clone Repository](assets/docs/Clone.png)
 3. Navigate to Git Bash and clone the repository [Clone-Command](assets/docs/git-clone.png)
 4. Press Enter and your local clone will be created.
+$ git clone https://github.com/PratimaGurav/global-warning.git
+Cloning into 'global-warning'...
+remote: Enumerating objects: 577, done.
+remote: Counting objects: 100% (577/577), done.
+remote: Compressing objects: 100% (332/332), done.
+remote: Total 577 (delta 268), reused 484 (delta 179), pack-reused 0
+Receiving objects: 100% (577/577), 14.67 MiB | 3.49 MiB/s, done.
+Resolving deltas: 100% (268/268), done.
+Updating files: 100% (67/67), done.
 
-5. The code will now be available in the directory created by you
 
 ## Acknowledgements
 
