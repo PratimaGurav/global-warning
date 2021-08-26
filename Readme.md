@@ -185,6 +185,15 @@ The project was deployed to GitHub Pages using the following steps...
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/PratimaGurav/global-warning.git)
+2. Under the repository name, click "Code".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link. [Clone Repository]()
+4. Open Git Bash
+5. 
+
+
 ## Acknowledgements
 
 -   My Mentor for continuous helpful feedback and advises.
