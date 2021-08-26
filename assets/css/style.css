@@ -63,7 +63,6 @@ h1, h2 {
     background-color: white;
     color: inherit;
     padding: 20px;
-    bottom: 500px;
     left: 15px;
     right: 885px; 
 }
@@ -259,8 +258,7 @@ div.description {
 /*For larger to medium screens size from 1300px wide and down*/
 @media screen and (max-width: 1300px) {
     .content {
-        bottom: 300px;
-        width: 30%;
+        width: 100%;
         height: auto;
         left: 0px;
     }
@@ -275,18 +273,19 @@ div.description {
 
 /*For larger to medium screens size from 1200px wide and down*/
 @media screen and (max-width: 1200px) {
+#hero-image {
+    position: relative;
+}
 .content {
     left: 0px;
-    width: 40%;
+    width: 100%;
     height: auto;
     margin: 0px auto;
-    bottom: 500px;
 }
 .grid-container {
     grid-template-columns: 1fr;
-    padding: 0;
+    padding: 0px;
     display: inline;
-    padding: 5px;
 }
 #second-main {
     padding: 0;
@@ -319,7 +318,7 @@ br {
 @media screen and (max-width: 950px) {  
     .content {
         left: 0;
-        width: 65%;
+        width: 80%;
         height: auto;
         margin: 0px auto;
     }
@@ -343,7 +342,6 @@ br {
         width: 65%;
         height: auto;
         margin: 0px auto;
-        bottom: 400px;
     }
     #list {
         list-style-type: none;
