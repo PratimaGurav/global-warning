@@ -59,7 +59,7 @@ h1, h2 {
 }
 
 .content {
-    position: absolute;
+    position: relative;
     background-color: white;
     color: inherit;
     padding: 20px;
@@ -262,7 +262,6 @@ div.description {
         bottom: 300px;
         width: 30%;
         height: auto;
-        margin: 0px auto;
         left: 0px;
     }
     .form {
@@ -276,9 +275,6 @@ div.description {
 
 /*For larger to medium screens size from 1200px wide and down*/
 @media screen and (max-width: 1200px) {
-#hero-image {
-    position: relative;
-}
 .content {
     left: 0px;
     width: 40%;
@@ -362,8 +358,6 @@ br {
     .content {
      width: 65%;
      height: auto;
-     top: 500px;
-     bottom: auto;
     }
     #hero-image {
         position: relative;
