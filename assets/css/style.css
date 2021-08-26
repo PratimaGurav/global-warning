@@ -357,7 +357,7 @@ br {
      height: auto;
     }
     #hero-image {
-        position: relative;
+        height: 300px;
     }
     .content-img {
         text-align: center;
