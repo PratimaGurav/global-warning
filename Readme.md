@@ -35,11 +35,11 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - 
+    -   Landing (Home) Page Wireframe - [Landing-Page](assets/docs/Balsamiqa.pdf)
 
-    -   Causes, Effects and Solution Pages Wireframe - 
+    -   Causes, Effects and Solution Pages Wireframe - [Causes,Effects,Solutions](assets/docs/Balsamiqb.pdf)
 
-    -   Sign Up Page Wireframe - 
+    -   Sign Up Page Wireframe - [Sign-up](assets/docs/Balsamiqc.pdf)
     
 ## Features
 
