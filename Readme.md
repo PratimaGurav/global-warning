@@ -184,3 +184,8 @@ The project was deployed to GitHub Pages using the following steps...
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+
+## Acknowledgements
+
+-   My Mentor for continuous helpful feedback and advises.
+-   Slack community and my fellow slackers for being available at any given time of the day.
