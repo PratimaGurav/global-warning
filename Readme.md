@@ -168,8 +168,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
   ### Known Bugs
 
- -   On some mobile devices the Hero Image on home and sign-up page pushes the size of screen out more than any of the other content on the page.
-  -   Also the logo and Navbar .
+ -   On some mobile devices the Hero Image on home and sign-up page pushes the size of screen out more than any of the other content on the page. *fixed*
+      -*Adjusted the width of the hero image*
+  -  On Firefox browser the form on Sign-Up page was distorted. *fixed*
+      -*Adjusted the height of the white background*
 
 ## Deployment
 
