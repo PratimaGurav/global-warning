@@ -189,8 +189,10 @@ The project was deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and navigate to the [GitHub Repository](https://github.com/PratimaGurav/global-warning.git)
 2. To clone the repository using HTTPS, click Code and copy the address. [Clone Repository](assets/docs/Clone.png)
-3. Navigate to Git Bash and clone the repository.
-4. The code will now be available in the directory created by you. You can open the code using the command.
+3. Navigate to Git Bash and clone the repository [Clone-Command](assets/docs/git-clone.png)
+4. Press Enter and your local clone will be created.
+
+5. The code will now be available in the directory created by you
 
 ## Acknowledgements
 
