@@ -343,7 +343,10 @@ br {
         list-style-type: none;
         float: right;
         margin-right: 15px;
-    
+        letter-spacing: 0px;
+    }
+    #logo {
+        font-size: 200%;
     }
 }
 
@@ -356,6 +359,15 @@ br {
     #hero-image {
         height: 300px;
     }
+    #list {
+        letter-spacing: 0px;
+        font-size: 100%;
+    }
+    .grid-container {
+        margin: 2px;
+    }
+    
+    
     .content-img {
         text-align: center;
         width: 250px;
@@ -364,7 +376,7 @@ br {
     #second-main {
         width: 80%;
         height: auto;
-        margin: 210px 20px 5px;
+        margin: 100px 20px 5px;
         padding: 10px;
     }
     .container{
