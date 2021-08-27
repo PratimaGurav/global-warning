@@ -11,30 +11,27 @@ body {
     color: #400101;
 }
 /*headings and logo*/
-
 h1, h2 {
     font-family: Merriweather, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #D93D04
 }
-
 #logo {
     float: left;
     font-size: 300%;
 }
+/*navigation*/
 #list {
     letter-spacing: 2px;
     font-size: 120%;
 }
-
 #list li {
     list-style-type: none;
     float: right;
     margin-right: 25px;
 
 }
-
 #list a {
     color:inherit;
     text-decoration: none;
@@ -44,20 +41,20 @@ h1, h2 {
 #list, #logo {
     line-height: 80px;
 }
-
 #list a:hover {
     border-bottom: 2px solid #D93D04;;
 }
 .active {
     border-bottom: 2px solid #D93D04;
 }
-
+/*main background image*/
 #hero-image {
   width: 100%;
   height: 500px;
   position: relative;
 }
 
+/*main content text*/
 .content {
     position: relative;
     background-color: white;
@@ -147,7 +144,7 @@ footer {
     font-size: 150%;
     padding: 2px;
 }
-/*styling sec, third and fourth pages*/
+/*causes, effects and solutions webpages*/
 #second-main {
     position: absolute;
     padding: 5px 20px 0px 10px;
