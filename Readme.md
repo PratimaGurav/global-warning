@@ -135,7 +135,7 @@ The [W3C Markup Validator](https://validator.w3.org/nu/) and [W3C CSS Validator]
 - Following errors were found and fixed while validation    
 [W3C Markup Validator](https://validator.w3.org/nu/) 
     - [Results](assets/docs/HTML-validator.png)
--   [Aria Label](/assets/docs/)  
+-   [Aria Label](/assets/docs/aria-label.png)  
     - [Results](assets/docs/CSS-Validator.png)  
 
  ### Lighthouse Results
