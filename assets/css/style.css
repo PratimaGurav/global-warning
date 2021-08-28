@@ -364,11 +364,9 @@ br {
         letter-spacing: 0px;
         font-size: 100%;
     }
-    .grid-container {
-        margin: 2px;
+    .left, .center, .right {
+        margin: 10px;
     }
-    
-    
     .content-img {
         text-align: center;
         width: 250px;
