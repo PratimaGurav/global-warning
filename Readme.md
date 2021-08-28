@@ -126,9 +126,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
     - GitHub is used to store the projects code after being pushed from Git.   
 5. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [Add wireframes] during the design process. 
-6. [Wikipedia:](https://www.wikipedia.org/)
-   [Google:](https://www.google.com/)
-    - Wikipedia and Google was used to gather information about the project.    
+    
 
 ## Testing
 
@@ -199,6 +197,16 @@ The project was deployed to GitHub Pages using the following steps...
 
 ## Credits
 
+### Code
+- [Love Running](https://github.com/PratimaGurav/love-running) Walkthrough Project was referred for designing of the webpages and technical implementation.
+- [W3 Schools](https://www.w3schools.com/) was used throughout the project majorly for styling and alignment purpose.
+
+### Content
+- The following websites were referred to gather information about the project.  
+  - [National-Geograhic](https://www.nationalgeographic.com/environment/article/global-warming-overview)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Climate_change)
+  - [Tree-Hugger](https://www.treehugger.com/how-to-reduce-global-warming-1203897)  
+
 ### Media
 All Images used within this site are free and do not incur any copyright issues. These images have been provided by following websites:
   - [Pexels](https://www.pexels.com/)
@@ -227,7 +235,7 @@ All Images used within this site are free and do not incur any copyright issues.
     - [Fertilization](https://pixabay.com/photos/tractor-fertilizer-pesticide-spray-4217686/)
     - [Climate-change](https://pixabay.com/illustrations/climate-change-global-warming-2063240/)
     - [Thermometer](https://pixabay.com/photos/thermometer-summer-hot-heat-sun-3581190/)
-    - [woolly-Mammoth](https://pixabay.com/photos/woolly-mammoth-animal-prehistoric-2722882/)
+    - [Woolly-Mammoth](https://pixabay.com/photos/woolly-mammoth-animal-prehistoric-2722882/)
 
   - [Unsplash](https://unsplash.com/)
     - [Melting-Glaciers](https://unsplash.com/photos/SH_oYiwg224)
