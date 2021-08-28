@@ -1,6 +1,12 @@
-<h1 align="center">Global Warning</h1>
+# Global Warning
 
-[View the live project here.](https://pratimagurav.github.io/global-warning/)
+## Code Institute: Milestone Project 1
+
+### HTML/CSS Essentials: Static front-end website
+
+[Click here to view the live project.](https://pratimagurav.github.io/global-warning/)
+
+[Click here to view the repository.](https://github.com/PratimaGurav/global-warning)
 
 
 Global Warning is the informative site explaning the dangerous effect and causes that we are facing these days due to Global Warming. It describes few solutions which can help maintain the balance. The site is targeted towards people to create awareness of the consequences that our environment is facing. It also intends to the people who want to stay updated and do their part to encounter this serious issue. 
@@ -31,7 +37,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
         The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Merriweather font is used for headings with Sans Serif as the fallback.
 
     -   #### Imagery
-        Images are important to strike and catch users attentions. Large background hero image is used. Also images are used to describe the causes, effects and sloutions. 
+        Images are important to strike and catch users attentions. Large background hero image is used. Also images are used to describe the causes, effects and solutions. 
 
 *   ### Wireframes
 
@@ -113,6 +119,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [MARKDOWN](https://en.wikipedia.org/wiki/Markdown)
 
 ## Frameworks, Libraries & Programs Used
 
@@ -147,19 +154,19 @@ The [W3C Markup Validator](https://validator.w3.org/nu/) and [W3C CSS Validator]
   - [Desktop](assets/docs/LHDindex.png)
   - [Mobile](assets/docs/LHMindex.png)
 
-  - __The Causes__
+- __The Causes__
   - [Desktop](assets/docs/LHDcauses.png)
   - [Mobile](assets/docs/LHMcauses.png)
 
-  - __The Effects__
+- __The Effects__
   - [Desktop](assets/docs/LHDeffects.png)
   - [Mobile](assets/docs/LHMeffects.png)
 
-  - __The Solutions__
+- __The Solutions__
   - [Desktop](assets/docs/LHDsolutions.png)
   - [Mobile](assets/docs/LHMsolutions.png)
 
-  - __The Sign-Up__
+- __The Sign-Up__
   - [Desktop](assets/docs/LHDsignup.png)
   - [Mobile](assets/docs/LHMsignup.png)
 
@@ -186,20 +193,22 @@ The [W3C Markup Validator](https://validator.w3.org/nu/) and [W3C CSS Validator]
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/PratimaGurav/global-warning)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
-5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+4. Under "Source", click the dropdown called "None" and select "Main Branch".
+5. Click "Save".
+6. The page will automatically refresh and provide you with a link to the Live GitHub Page for the repository.
+
+The Page can sometimes take longer to load and go live. This is an expected behaviour. 
+
 
 ### Making a Local Clone
 
 1. Log in to GitHub and navigate to the [GitHub Repository](https://github.com/PratimaGurav/global-warning.git)
 2. To clone the repository using HTTPS, click Code and copy the address. 
 ![Clone Repository](/assets/docs/Clone.png)
-3. Navigate to Git Bash and clone the repository 
+3. Navigate to Git Bash and clone the repository. 
 ![Clone-Command](/assets/docs/git-clone.png)
 4. Press Enter and your local clone will be created. 
 ![Clone-Output](/assets/docs/Clone-output.png)
