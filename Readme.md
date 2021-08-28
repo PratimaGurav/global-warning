@@ -65,18 +65,14 @@ Global Warning is the informative site explaning the dangerous effect and causes
     
 ## Features
 
-  -   Responsive on all device sizes.
-
-  -   Interactive elements.
-
   - ### Existing Features
 
-    - __Navigation Bar__
+   - __Navigation Bar__
 
-      - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, Causes, Effects, Solutions and Sign Up and is identical in each page to allow for easy navigation.
+     - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, Causes, Effects, Solutions and Sign Up and is identical in each page to allow for easy navigation.
      - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button.
   
-     ![Nav Bar](/assets/docs/nav-bar.png)
+      ![Nav Bar](/assets/docs/nav-bar.png)
 
    - __The landing page image__
 
@@ -84,50 +80,50 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
       ![Landing Page](/assets/docs/Hero-Image-Content.png)
 
-    - __The Grid__
+   - __The Grid__
 
-      - The grid has images, brief information and responsive nagivation to the Causes, Effects and Solutions pages.
+     - The grid has images, brief information and responsive nagivation to the Causes, Effects and Solutions pages.
 
      ![The Grid](/assets/docs/grid.png)
 
-    - __The Footer__ 
+   - __The Footer__ 
 
-      - The footer section includes link to a short video giving more information about Global Warming. The link will open to a new tab to allow easy navigation for the user.    
+     - The footer section includes link to a short video giving more information about Global Warming. The link will open to a new tab to allow easy navigation for the user.    
      - It also includes links to the relevant social media sites for Global Warning. These links will also open to a new tab to allow easy navigation for the user. And is valuable to the user as it encourages them to stay connected via social media.
      - The footer is identical on each page for easy access.
 
-      ![The Footer](/assets/docs/footer.png)
+     ![The Footer](/assets/docs/footer.png)
 
-    - __The Causes__ 
+   - __The Causes__ 
 
-      - This page inlcudes explanation and the major causes of Global Warming.
+     - This page inlcudes explanation and the major causes of Global Warming.
      - It also includes supportive images and short description about each making it easier for the user to understand.
 
-      ![The Causes](/assets/docs/Causes-a.png)
-      ![The Causes](/assets/docs/Causes-b.png)
+     ![The Causes](/assets/docs/Causes-a.png)
+     ![The Causes](/assets/docs/Causes-b.png)
 
    - __The Effects__ 
 
-      - This page inlcudes explanation and the major effects of Global Warming.
-      - It also includes supportive images and short description about each making it easier for the user to understand.
+     - This page inlcudes explanation and the major effects of Global Warming.
+     - It also includes supportive images and short description about each making it easier for the user to understand.
 
-      ![The Effects](/assets/docs/Effects-a.png)
-      ![The Effects](/assets/docs/Effects-b.png)
+     ![The Effects](/assets/docs/Effects-a.png)
+     ![The Effects](/assets/docs/Effects-b.png)
 
-    - __The Solutions__ 
+   - __The Solutions__ 
 
-      - This page inlcudes explanation and few solutions of Global Warming.
-      - It provides simplified ways to tackle the issue which can be followed by each one in their day to day life.
+     - This page inlcudes explanation and few solutions of Global Warming.
+     - It provides simplified ways to tackle the issue which can be followed by each one in their day to day life.
 
-      ![The Solutions](/assets/docs/Solutions-a.png)
-      ![The Solutions](/assets/docs/Solutions-b.png)
+     ![The Solutions](/assets/docs/Solutions-a.png)
+     ![The Solutions](/assets/docs/Solutions-b.png)
 
-    - __The Sign Up Page__
+   - __The Sign Up Page__
 
-      - This page will allow the user to get signed up for weekly newsletter. The user can sign up by providing basic details like full name, email address and comments.
-      - Once signed up the user will be receive latest updates about the website.
+     - This page will allow the user to get signed up for weekly newsletter. The user can sign up by providing basic details like full name, email address and comments.
+     - Once signed up the user will be receive latest updates about the website.
 
-      ![The Sign Up](/assets/docs/Sign-up.png)
+     ![The Sign Up](/assets/docs/Sign-up.png)
 
 - ### Future Enhancements 
 
