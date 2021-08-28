@@ -14,13 +14,19 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
 ## Table of Contents:
 - [User Experience (UX)](https://github.com/PratimaGurav/global-warning#user-experience-ux)  
-  - User stories 
-  - Design
-  - Wireframes 
-- [Features](https://github.com/PratimaGurav/global-warning#features)
-  - Existing Features
-  - Future Enhancements
 
+- [Features](https://github.com/PratimaGurav/global-warning#features)
+
+- [Technologies Used](https://github.com/PratimaGurav/global-warning#technologies-used)
+  
+- [Testing](https://github.com/PratimaGurav/global-warning#testing)
+
+- [Deployment](https://github.com/PratimaGurav/global-warning#deployment)
+
+- [Credits](https://github.com/PratimaGurav/global-warning#credits)
+
+- [Acknowledgements](https://github.com/PratimaGurav/global-warning#acknowledgements)
+    
 
 ## User Experience (UX)
 
@@ -65,63 +71,63 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
   - ### Existing Features
 
-  - __Navigation Bar__
+    - __Navigation Bar__
 
-    - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, Causes, Effects, Solutions and Sign Up and is identical in each page to allow for easy navigation.
-    - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button.
+      - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, Causes, Effects, Solutions and Sign Up and is identical in each page to allow for easy navigation.
+     - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button.
   
-   ![Nav Bar](/assets/docs/nav-bar.png)
+     ![Nav Bar](/assets/docs/nav-bar.png)
 
-  - __The landing page image__
+   - __The landing page image__
 
-    - The landing includes a photograph with text overlay to allow the user to know about Global Warming.
+     - The landing includes a photograph with text overlay to allow the user to know about Global Warming.
 
-    ![Landing Page](/assets/docs/Hero-Image-Content.png)
+      ![Landing Page](/assets/docs/Hero-Image-Content.png)
 
-  - __The Grid__
+    - __The Grid__
 
-    - The grid has images, brief information and responsive nagivation to the Causes, Effects and Solutions pages.
+      - The grid has images, brief information and responsive nagivation to the Causes, Effects and Solutions pages.
 
-   ![The Grid](/assets/docs/grid.png)
+     ![The Grid](/assets/docs/grid.png)
 
-  - __The Footer__ 
+    - __The Footer__ 
 
-    - The footer section includes link to a short video giving more information about Global Warming. The link will open to a new tab to allow easy navigation for the user.    
-    - It also includes links to the relevant social media sites for Global Warning. These links will also open to a new tab to allow easy navigation for the user. And is valuable to the user as it encourages them to stay connected via social media.
-    - The footer is identical on each page for easy access.
+      - The footer section includes link to a short video giving more information about Global Warming. The link will open to a new tab to allow easy navigation for the user.    
+     - It also includes links to the relevant social media sites for Global Warning. These links will also open to a new tab to allow easy navigation for the user. And is valuable to the user as it encourages them to stay connected via social media.
+     - The footer is identical on each page for easy access.
 
-    ![The Footer](/assets/docs/footer.png)
+      ![The Footer](/assets/docs/footer.png)
 
-  - __The Causes__ 
+    - __The Causes__ 
 
-    - This page inlcudes explanation and the major causes of Global Warming.
-    - It also includes supportive images and short description about each making it easier for the user to understand.
+      - This page inlcudes explanation and the major causes of Global Warming.
+     - It also includes supportive images and short description about each making it easier for the user to understand.
 
-    ![The Causes](/assets/docs/Causes-a.png)
-    ![The Causes](/assets/docs/Causes-b.png)
+      ![The Causes](/assets/docs/Causes-a.png)
+      ![The Causes](/assets/docs/Causes-b.png)
 
-  - __The Effects__ 
+   - __The Effects__ 
 
-    - This page inlcudes explanation and the major effects of Global Warming.
-    - It also includes supportive images and short description about each making it easier for the user to understand.
+      - This page inlcudes explanation and the major effects of Global Warming.
+      - It also includes supportive images and short description about each making it easier for the user to understand.
 
-    ![The Effects](/assets/docs/Effects-a.png)
-    ![The Effects](/assets/docs/Effects-b.png)
+      ![The Effects](/assets/docs/Effects-a.png)
+      ![The Effects](/assets/docs/Effects-b.png)
 
-  - __The Solutions__ 
+    - __The Solutions__ 
 
-    - This page inlcudes explanation and few solutions of Global Warming.
-    - It provides simplified ways to tackle the issue which can be followed by each one in their day to day life.
+      - This page inlcudes explanation and few solutions of Global Warming.
+      - It provides simplified ways to tackle the issue which can be followed by each one in their day to day life.
 
-    ![The Solutions](/assets/docs/Solutions-a.png)
-    ![The Solutions](/assets/docs/Solutions-b.png)
+      ![The Solutions](/assets/docs/Solutions-a.png)
+      ![The Solutions](/assets/docs/Solutions-b.png)
 
-  - __The Sign Up Page__
+    - __The Sign Up Page__
 
-    - This page will allow the user to get signed up for weekly newsletter. The user can sign up by providing basic details like full name, email address and comments.
-    - Once signed up the user will be receive latest updates about the website.
+      - This page will allow the user to get signed up for weekly newsletter. The user can sign up by providing basic details like full name, email address and comments.
+      - Once signed up the user will be receive latest updates about the website.
 
-    ![The Sign Up](/assets/docs/Sign-up.png)
+      ![The Sign Up](/assets/docs/Sign-up.png)
 
 - ### Future Enhancements 
 
@@ -164,25 +170,25 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
   - ### Lighthouse Results
 
-  - __The Landing(Home)Page__
-    - [Desktop](assets/docs/LHDindex.png)
-    - [Mobile](assets/docs/LHMindex.png)
+   - __The Landing(Home)Page__
+      - [Desktop](assets/docs/LHDindex.png)
+      - [Mobile](assets/docs/LHMindex.png)
 
-  - __The Causes__
-    - [Desktop](assets/docs/LHDcauses.png)
-    - [Mobile](assets/docs/LHMcauses.png)
+   - __The Causes__
+      - [Desktop](assets/docs/LHDcauses.png)
+      - [Mobile](assets/docs/LHMcauses.png)
 
-  - __The Effects__
-    - [Desktop](assets/docs/LHDeffects.png)
-    - [Mobile](assets/docs/LHMeffects.png)
+   - __The Effects__
+      - [Desktop](assets/docs/LHDeffects.png)
+      - [Mobile](assets/docs/LHMeffects.png)
 
-  - __The Solutions__
-    - [Desktop](assets/docs/LHDsolutions.png)
-    - [Mobile](assets/docs/LHMsolutions.png)
+   - __The Solutions__
+      - [Desktop](assets/docs/LHDsolutions.png)
+      - [Mobile](assets/docs/LHMsolutions.png)
 
-  - __The Sign-Up__
-    - [Desktop](assets/docs/LHDsignup.png)
-    - [Mobile](assets/docs/LHMsignup.png)
+   - __The Sign-Up__
+      - [Desktop](assets/docs/LHDsignup.png)
+      - [Mobile](assets/docs/LHMsignup.png)
 
  - ### Further Testing
 
@@ -257,17 +263,17 @@ Global Warning is the informative site explaning the dangerous effect and causes
       - [Classroom](https://www.pexels.com/photo/man-in-gray-dress-shirt-and-black-pants-standing-beside-boy-in-blue-long-sleeve-shirt-5212703/)
       - [Planet-Earth](https://www.pexels.com/photo/planet-earth-first-poster-on-a-concrete-post-3302183/)
 
-   - [Stockvault](https://www.stockvault.net/)
+    - [Stockvault](https://www.stockvault.net/)
       - [Earth-Protection](https://www.stockvault.net/photo/263920/earth-protection)
       - [Industry-Smoke](https://www.stockvault.net/photo/138017/global-warming-factory-pollution)
       - [Melting-iceberg](https://www.stockvault.net/photo/146012/icebergs)
       - [Earth-Friendly](https://www.stockvault.net/photo/229086/earth-friendly-shows-conservation-environmental-and-natural)
   
     - [Pixabay](https://pixabay.com/)
-      - [Fertilization](https://pixabay.com/photos/tractor-fertilizer-pesticide-spray-4217686/)
-      - [Climate-change](https://pixabay.com/illustrations/climate-change-global-warming-2063240/)
-      - [Thermometer](https://pixabay.com/photos/thermometer-summer-hot-heat-sun-3581190/)
-      - [Woolly-Mammoth](https://pixabay.com/photos/woolly-mammoth-animal-prehistoric-2722882/)
+        - [Fertilization](https://pixabay.com/photos/tractor-fertilizer-pesticide-spray-4217686/)
+        - [Climate-change](https://pixabay.com/illustrations/climate-change-global-warming-2063240/)
+        - [Thermometer](https://pixabay.com/photos/thermometer-summer-hot-heat-sun-3581190/)
+        - [Woolly-Mammoth](https://pixabay.com/photos/woolly-mammoth-animal-prehistoric-2722882/)
 
    - [Unsplash](https://unsplash.com/)
       - [Melting-Glaciers](https://unsplash.com/photos/SH_oYiwg224)
