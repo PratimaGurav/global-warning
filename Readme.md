@@ -132,11 +132,14 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
 The [W3C Markup Validator](https://validator.w3.org/nu/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-- Following errors were found and fixed while validation    
-[W3C Markup Validator](https://validator.w3.org/nu/) 
-    - [Results](assets/docs/HTML-validator.png)
--   [Aria Label](/assets/docs/aria-label.png)  
-    - [Results](assets/docs/CSS-Validator.png)  
+- Following errors were found and fixed while validation:-  
+    - (HTML) No space between aria label attributes and stray end tags.   
+     - [Error](assets/docs/html-error.png) 
+     - [Results](assets/docs/HTML-validator.png)
+    
+    - (CSS) Value Error : left only 0 can be a unit. You must put a unit after your number : 5    
+     - [Error](assets/docs/css-error.png)
+     - [Results](assets/docs/CSS-Validator.png)  
 
  ### Lighthouse Results
 
