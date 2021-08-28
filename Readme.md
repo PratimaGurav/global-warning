@@ -181,7 +181,7 @@ The [W3C Markup Validator](https://validator.w3.org/nu/) and [W3C CSS Validator]
       *This was fixed by adjusting the height of the hero image.* 
       [Commit message](/assets/docs/hero-image)
   -   A large amount of testing was done to ensure that all pages were linking correctly.
-  -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+  -   Friends and family members were asked to review the site to point out any bugs and/or user experience issues.
 
   ### Known Bugs
 
@@ -226,7 +226,7 @@ The Page can sometimes take longer to load and go live. This is an expected beha
   - [Tree-Hugger](https://www.treehugger.com/how-to-reduce-global-warming-1203897)  
 
 ### Media
-All Images used within this site are free and do not incur any copyright issues. These images have been provided by following websites:
+All images used within this site are free and do not incur any copyright issues. These images have been provided by following websites:
   - [Pexels](https://www.pexels.com/)
     - [Blue-Globe](https://www.pexels.com/photo/blue-globe-with-plastic-4167579/)
     - [Garbage](https://www.pexels.com/photo/photo-of-landfill-2768961/)
@@ -262,3 +262,5 @@ All Images used within this site are free and do not incur any copyright issues.
 
 -   My Mentor for continuous helpful feedback and advises.
 -   Slack community and my fellow slackers for being available at any given time of the day.
+
+## [BACK TO TOP](https://github.com/PratimaGurav/global-warning)
