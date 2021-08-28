@@ -125,7 +125,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
 4. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.   
 5. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [Add wireframes] during the design process. 
+    - Balsamiq was used to create the wireframes during the design process. 
     
 
 ## Testing
