@@ -134,12 +134,12 @@ The [W3C Markup Validator](https://validator.w3.org/nu/) and [W3C CSS Validator]
 
 - Following errors were found and fixed while validation:-  
     - (HTML) No space between aria label attributes and stray end tags.   
-     - [Error](assets/docs/html-error.png) 
-     - [Results](assets/docs/HTML-validator.png)
+      - [Error](assets/docs/html-error.png) 
+      - [Results](assets/docs/HTML-validator.png)
     
     - (CSS) Value Error : left only 0 can be a unit. You must put a unit after your number : 5    
-     - [Error](assets/docs/css-error.png)
-     - [Results](assets/docs/CSS-Validator.png)  
+      - [Error](assets/docs/css-error.png)
+      - [Results](assets/docs/CSS-Validator.png)  
 
  ### Lighthouse Results
 
