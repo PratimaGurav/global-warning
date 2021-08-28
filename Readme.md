@@ -221,13 +221,13 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
  - ### Making a Local Clone
 
-   1. Log in to GitHub and navigate to the [GitHub Repository](https://github.com/PratimaGurav/global-warning.git)
-   2. To clone the repository using HTTPS, click Code and copy the address. 
-   ![Clone Repository](/assets/docs/Clone.png)
-   3. Navigate to Git Bash and clone the repository. 
-   ![Clone-Command](/assets/docs/git-clone.png)
-   4. Press Enter and your local clone will be created. 
-   ![Clone-Output](/assets/docs/Clone-output.png)
+    1. Log in to GitHub and navigate to the [GitHub Repository](https://github.com/PratimaGurav/global-warning.git)
+    2. To clone the repository using HTTPS, click Code and copy the address. 
+    ![Clone Repository](/assets/docs/Clone.png)
+    3. Navigate to Git Bash and clone the repository. 
+    ![Clone-Command](/assets/docs/git-clone.png)
+    4. Press Enter and your local clone will be created. 
+    ![Clone-Output](/assets/docs/Clone-output.png)
 
 ## Credits
 
