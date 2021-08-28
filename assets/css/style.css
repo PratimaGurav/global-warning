@@ -112,7 +112,7 @@ h1, h2 {
 .left, .center, .right{
     border-style: solid;
     border-radius: 5px;
-    margin: 0 auto;
+    margin: 10px;
 }
 
 /*footer*/
@@ -285,7 +285,7 @@ div.description {
     display: inline;
 }
 .left, .center, .right {
-    margin: 10px;
+    margin: 5px;
 }
 #second-main {
     padding: 0;
