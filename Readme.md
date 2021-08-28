@@ -31,7 +31,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
         The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Merriweather font is used for headings with Sans Serif as the fallback.
 
     -   #### Imagery
-        Images are important to strike and catch users attentions. Large background hero image is used. Also images are used to describe the causes, effects and sloutions. All Images used within this site have been provided by [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/) and [Stockvault](https://www.stockvault.net/). These images are  free and do not incur any copyright issues.
+        Images are important to strike and catch users attentions. Large background hero image is used. Also images are used to describe the causes, effects and sloutions. 
 
 *   ### Wireframes
 
@@ -197,7 +197,40 @@ The project was deployed to GitHub Pages using the following steps...
 4. Press Enter and your local clone will be created. 
 ![Clone-Output](/assets/docs/Clone-output.png)
 
+## Credits
 
+### Media
+All Images used within this site are free and do not incur any copyright issues. These images have been provided by following websites:
+  - [Pexels](https://www.pexels.com/)
+    - [Blue-Globe](https://www.pexels.com/photo/blue-globe-with-plastic-4167579/)
+    - [Garbage](https://www.pexels.com/photo/photo-of-landfill-2768961/)
+    - [Industrialization](https://www.pexels.com/photo/photography-of-factory-929385/)
+    - [Oil-Driling](https://www.pexels.com/photo/gray-industrial-machine-during-golden-hour-162568/)
+    - [Deforestation](https://www.pexels.com/photo/photo-of-person-using-chainsaw-4205989/)
+    - [Hurricane](https://www.pexels.com/photo/big-waves-under-cloudy-sky-753619/)
+    - [Wildfires](https://www.pexels.com/photo/forest-on-fire-51951/)
+    - [Recycle](https://www.pexels.com/photo/green-star-on-white-paper-6990568/)
+    - [Switch-Off](https://www.pexels.com/photo/man-turning-off-light-switch-8107167/)
+    - [Cycling](https://www.pexels.com/photo/people-riding-bicycles-on-road-2361108/)
+    - [Led-Light](https://www.pexels.com/photo/white-led-light-2249063/)
+    - [Tree-Plantation](https://www.pexels.com/photo/person-holding-green-cactus-plant-4505161/)
+    - [Classroom](https://www.pexels.com/photo/man-in-gray-dress-shirt-and-black-pants-standing-beside-boy-in-blue-long-sleeve-shirt-5212703/)
+    - [Planet-Earth](https://www.pexels.com/photo/planet-earth-first-poster-on-a-concrete-post-3302183/)
+
+  - [Stockvault](https://www.stockvault.net/)
+    - [Earth-Protection](https://www.stockvault.net/photo/263920/earth-protection)
+    - [Industry-Smoke](https://www.stockvault.net/photo/138017/global-warming-factory-pollution)
+    - [Melting-iceberg](https://www.stockvault.net/photo/146012/icebergs)
+    - [Earth-Friendly](https://www.stockvault.net/photo/229086/earth-friendly-shows-conservation-environmental-and-natural)
+  
+  - [Pixabay](https://pixabay.com/)
+    - [Fertilization](https://pixabay.com/photos/tractor-fertilizer-pesticide-spray-4217686/)
+    - [Climate-change](https://pixabay.com/illustrations/climate-change-global-warming-2063240/)
+    - [Thermometer](https://pixabay.com/photos/thermometer-summer-hot-heat-sun-3581190/)
+    - [woolly-Mammoth](https://pixabay.com/photos/woolly-mammoth-animal-prehistoric-2722882/)
+
+  - [Unsplash](https://unsplash.com/)
+    - [Melting-Glaciers](https://unsplash.com/photos/SH_oYiwg224)
 
 ## Acknowledgements
 
