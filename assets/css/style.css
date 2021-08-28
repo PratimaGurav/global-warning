@@ -74,7 +74,7 @@ h1, h2 {
     text-decoration: none;
     padding: 5px 10px 0px 10px;
 }
-
+/*box shadow effect was taken from (w3schools-https://www.w3schools.com/css/tryit.asp?filename=trycss_ex_images_card)*/
 .content-img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-top: 10px;
@@ -96,6 +96,7 @@ h1, h2 {
     padding: 15px 10px;
 }
 
+/*grid template code was taken from (w3schools-https://www.w3schools.com/cssref/pr_grid-template-columns.asp)*/
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
