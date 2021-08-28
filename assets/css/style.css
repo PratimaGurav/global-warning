@@ -277,12 +277,15 @@ div.description {
     left: 0px;
     width: 100%;
     height: auto;
-    margin: 0px auto;
+    margin: 10px;
 }
 .grid-container {
     grid-template-columns: 1fr;
     padding: 0px;
     display: inline;
+}
+.left, .center, .right {
+    margin: 10px;
 }
 #second-main {
     padding: 0;
@@ -412,5 +415,8 @@ br {
     width: 60%;
     top: 400px;
 } 
+#logo {
+    font-size: 200%;
+}
 
 }
