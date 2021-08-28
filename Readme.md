@@ -162,17 +162,20 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   ### Further Testing
 
   -   The Website was tested on Google Chrome, Microsoft Edge,Safari and Mozilla Firefox browsers.
-      - On Firefox browser the form on Sign-Up page was distorted. This was fixed by adjusting the height of the white background. [Commit message](/assets/docs/form-styling)
+      - On Firefox browser the form on Sign-Up page was distorted.
+      *This was fixed by adjusting the height of the white background.* 
+      [Commit message](/assets/docs/form-styling)
   -   The website was viewed on a variety of devices such as Desktop, Laptop, iPad, iPhone6, iPhone7  & iPhone8.
+      - On some mobile devices the Hero Image on home and sign-up page pushes the size of screen out more than any of the other content on the page.
+      *This was fixed by adjusting the height of the hero image.* 
+      [Commit message](/assets/docs/hero-image)
   -   A large amount of testing was done to ensure that all pages were linking correctly.
   -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
   ### Known Bugs
 
- -   On some mobile devices the Hero Image on home and sign-up page pushes the size of screen out more than any of the other content on the page. *fixed*
-      -*Adjusted the width of the hero image*
-  -   *fixed*
-      -*Adjusted the height of the white background*
+ -   There are no outstanding issues found.
+  
 
 ## Deployment
 
