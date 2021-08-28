@@ -76,7 +76,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
    - __The landing page image__
 
-     - The landing includes a photograph with text overlay to allow the user to know about Global Warming.
+     - The landing includes a photograph with text below to allow the user to know about Global Warming.
 
       ![Landing Page](/assets/docs/Hero-Image-Content.png)
 
@@ -140,15 +140,15 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
 - ### Frameworks, Libraries & Programs Used
 
-  1. [Google Fonts:](https://fonts.google.com/)
+  - [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the font into the style.css file which is used on all pages throughout the project.
-  2. [Font Awesome:](https://fontawesome.com/)
+  - [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-  3. [Git](https://git-scm.com/)
+  - [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-  4. [GitHub:](https://github.com/)
+  - [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.   
-  5. [Balsamiq:](https://balsamiq.com/)
+  - [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process. 
     
 ## Testing
@@ -166,7 +166,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
   - ### Lighthouse Results
 
-    - __The Landing(Home)Page__
+    - __The Landing(Home) Page__
        - [Desktop](assets/docs/LHDindex.png)
        - [Mobile](assets/docs/LHMindex.png)
 
@@ -188,12 +188,12 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
  - ### Further Testing
 
-   -   The Website was tested on Google Chrome, Microsoft Edge,Safari and Mozilla Firefox browsers.
-      - On Firefox browser the form on Sign-Up page was distorted.
+   -   The Website was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox browsers.
+      - On Firefox browser, the form on Sign-Up page was distorted.
       *This was fixed by adjusting the height of the white background.* 
       [Commit message](/assets/docs/form-styling)
-   -   The website was viewed on a variety of devices such as Desktop, Laptop, iPad, iPhone6, 7 & 8.
-       - On some mobile devices the Hero Image on home and sign-up page pushes the size of screen out more than any of the other content on the page.
+   -   The website was viewed on a variety of devices such as Desktop, Laptop, iPad, iPhone 6, 7 & 8.
+       - On some mobile devices the Hero Image on home page and sign-up page pushes the size of screen out more than any of the other content on the page.
        *This was fixed by adjusting the height of the hero image.* 
        [Commit message](/assets/docs/hero-image)
    -   A large amount of testing was done to ensure that all pages were linking correctly.
@@ -205,38 +205,38 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
 ## Deployment
 
-  - ### GitHub Pages
+ - ### GitHub Pages
 
   The project was deployed to GitHub Pages using the following steps...
 
-    1. Log in to GitHub and locate the [GitHub Repository](https://github.com/PratimaGurav/global-warning)
-    2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-    4. Under "Source", click the dropdown called "None" and select "Main Branch".
-    5. Click "Save".
-    6. The page will automatically refresh and provide you with a link to the Live GitHub Page for the repository.
+   1. Log in to GitHub and locate the [GitHub Repository](https://github.com/PratimaGurav/global-warning)
+   2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+   3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+   4. Under "Source", click the dropdown called "None" and select "Main Branch".
+   5. Click "Save".
+   6. The page will automatically refresh and provide you with a link to the Live GitHub Page for the repository.
 
   The Page can sometimes take longer to load and go live. This is an expected behaviour. 
 
 
-  - ### Making a Local Clone
+ - ### Making a Local Clone
 
-    1. Log in to GitHub and navigate to the [GitHub Repository](https://github.com/PratimaGurav/global-warning.git)
-    2. To clone the repository using HTTPS, click Code and copy the address. 
-    ![Clone Repository](/assets/docs/Clone.png)
-    3. Navigate to Git Bash and clone the repository. 
-    ![Clone-Command](/assets/docs/git-clone.png)
-    4. Press Enter and your local clone will be created. 
-    ![Clone-Output](/assets/docs/Clone-output.png)
+   1. Log in to GitHub and navigate to the [GitHub Repository](https://github.com/PratimaGurav/global-warning.git)
+   2. To clone the repository using HTTPS, click Code and copy the address. 
+   ![Clone Repository](/assets/docs/Clone.png)
+   3. Navigate to Git Bash and clone the repository. 
+   ![Clone-Command](/assets/docs/git-clone.png)
+   4. Press Enter and your local clone will be created. 
+   ![Clone-Output](/assets/docs/Clone-output.png)
 
 ## Credits
 
   - ### Code
-    - [Love Running](https://github.com/PratimaGurav/love-running) Walkthrough Project was referred for designing of the webpages and technical implementation.
+    - [Love Running](https://github.com/PratimaGurav/love-running) walkthrough project was referred for designing of the webpages and technical implementation.
     - [W3 Schools](https://www.w3schools.com/) was used throughout the project majorly for styling and alignment purpose.
 
   - ### Content
-    - The following websites were referred to gather information about the project.  
+    The following websites were referred to gather information about the project.  
     - [National-Geograhic](https://www.nationalgeographic.com/environment/article/global-warming-overview)
     - [Wikipedia](https://en.wikipedia.org/wiki/Climate_change)
     - [Tree-Hugger](https://www.treehugger.com/how-to-reduce-global-warming-1203897)  
@@ -271,12 +271,13 @@ Global Warning is the informative site explaning the dangerous effect and causes
         - [Thermometer](https://pixabay.com/photos/thermometer-summer-hot-heat-sun-3581190/)
         - [Woolly-Mammoth](https://pixabay.com/photos/woolly-mammoth-animal-prehistoric-2722882/)
 
-   - [Unsplash](https://unsplash.com/)
-      - [Melting-Glaciers](https://unsplash.com/photos/SH_oYiwg224)
+    - [Unsplash](https://unsplash.com/)
+        - [Melting-Glaciers](https://unsplash.com/photos/SH_oYiwg224)
 
 ## Acknowledgements
 
   -   My Mentor for continuous helpful feedback and advises.
   -   Slack community and my fellow slackers for being available at any given time of the day.
+
 
 ## [BACK TO TOP](https://github.com/PratimaGurav/global-warning)
