@@ -12,6 +12,14 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
 [Click here to view the repository.](https://github.com/PratimaGurav/global-warning)
 
+## Table of Contents:
+- [User Experience (UX)](https://github.com/PratimaGurav/global-warning#user-experience-ux)  
+  - User stories 
+  - Design
+  - Wireframes 
+- [Features](https://github.com/PratimaGurav/global-warning#features)
+  - Existing Features
+
 ## User Experience (UX)
 
 -   ### User stories
@@ -112,6 +120,11 @@ Global Warning is the informative site explaning the dangerous effect and causes
   - Once signed up the user will be receive latest updates about the website.
 
   ![The Sign Up](/assets/docs/Sign-up.png)
+
+### Future Enhancements 
+
+  - Add blogs and live news for latest updates.
+  - Add information about upcoming events to spread awareness and raise funds for affected areas/regions.
 
 ## Technologies Used
 
