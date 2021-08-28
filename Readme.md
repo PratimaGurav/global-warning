@@ -65,7 +65,7 @@ Global Warning is the informative site explaning the dangerous effect and causes
     
 ## Features
 
-  - ### Existing Features
+ ### Existing Features
 
    - __Navigation Bar__
 
@@ -166,38 +166,38 @@ Global Warning is the informative site explaning the dangerous effect and causes
 
   - ### Lighthouse Results
 
-   - __The Landing(Home)Page__
-      - [Desktop](assets/docs/LHDindex.png)
-      - [Mobile](assets/docs/LHMindex.png)
+    - __The Landing(Home)Page__
+       - [Desktop](assets/docs/LHDindex.png)
+       - [Mobile](assets/docs/LHMindex.png)
 
-   - __The Causes__
-      - [Desktop](assets/docs/LHDcauses.png)
-      - [Mobile](assets/docs/LHMcauses.png)
+    - __The Causes__
+       - [Desktop](assets/docs/LHDcauses.png)
+       - [Mobile](assets/docs/LHMcauses.png)
 
-   - __The Effects__
-      - [Desktop](assets/docs/LHDeffects.png)
-      - [Mobile](assets/docs/LHMeffects.png)
+    - __The Effects__
+       - [Desktop](assets/docs/LHDeffects.png)
+       - [Mobile](assets/docs/LHMeffects.png)
 
-   - __The Solutions__
-      - [Desktop](assets/docs/LHDsolutions.png)
-      - [Mobile](assets/docs/LHMsolutions.png)
+    - __The Solutions__
+       - [Desktop](assets/docs/LHDsolutions.png)
+       - [Mobile](assets/docs/LHMsolutions.png)
 
-   - __The Sign-Up__
-      - [Desktop](assets/docs/LHDsignup.png)
-      - [Mobile](assets/docs/LHMsignup.png)
+    - __The Sign-Up__
+       - [Desktop](assets/docs/LHDsignup.png)
+       - [Mobile](assets/docs/LHMsignup.png)
 
  - ### Further Testing
 
-  -   The Website was tested on Google Chrome, Microsoft Edge,Safari and Mozilla Firefox browsers.
+   -   The Website was tested on Google Chrome, Microsoft Edge,Safari and Mozilla Firefox browsers.
       - On Firefox browser the form on Sign-Up page was distorted.
       *This was fixed by adjusting the height of the white background.* 
       [Commit message](/assets/docs/form-styling)
-  -   The website was viewed on a variety of devices such as Desktop, Laptop, iPad, iPhone6, iPhone7  & iPhone8.
-      - On some mobile devices the Hero Image on home and sign-up page pushes the size of screen out more than any of the other content on the page.
-      *This was fixed by adjusting the height of the hero image.* 
-      [Commit message](/assets/docs/hero-image)
-  -   A large amount of testing was done to ensure that all pages were linking correctly.
-  -   Friends and family members were asked to review the site to point out any bugs and/or user experience issues.
+   -   The website was viewed on a variety of devices such as Desktop, Laptop, iPad, iPhone6, 7 & 8.
+       - On some mobile devices the Hero Image on home and sign-up page pushes the size of screen out more than any of the other content on the page.
+       *This was fixed by adjusting the height of the hero image.* 
+       [Commit message](/assets/docs/hero-image)
+   -   A large amount of testing was done to ensure that all pages were linking correctly.
+   -   Friends and family members were asked to review the site to point out any bugs and/or user experience issues.
 
   - ### Known Bugs
 
