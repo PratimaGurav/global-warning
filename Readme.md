@@ -4,8 +4,6 @@
 
 ### HTML/CSS Essentials: Static front-end website
 
-Global Warning is the informative site explaning the dangerous effect and causes that we are facing these days due to Global Warming. It describes few solutions which can help maintain the balance. The site is targeted towards people to create awareness of the consequences that our environment is facing. It also intends to the people who want to stay updated and do their part to encounter this serious issue. 
-
 ![Responsive](/assets/docs/Responsive-Screenshot.png)
 
 [Click here to view the live project.](https://pratimagurav.github.io/global-warning/)
@@ -29,6 +27,9 @@ Global Warning is the informative site explaning the dangerous effect and causes
     
 
 ## User Experience (UX)
+
+-   ### Site Goals
+        Global Warning is an informative front end website explaning the major causes and effects that everyone is facing due to Global Warming. It also describes few solutions which can help maintain the balance. Additionally, it also provides a feature for interested users to signup and receive weekly notifications for any updates to the website. The site is targeted towards everyone to create awareness of the consequences and the measures everyone can take to tackle this global issue. 
 
 -   ### User stories
 
