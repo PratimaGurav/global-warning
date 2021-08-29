@@ -29,7 +29,9 @@
 ## User Experience (UX)
 
 -   ### Site Goals
-        Global Warning is an informative front end website explaning the major causes and effects that everyone is facing due to Global Warming. It also describes few solutions which can help maintain the balance. Additionally, it also provides a feature for interested users to signup and receive weekly notifications for any updates to the website. The site is targeted towards everyone to create awareness of the consequences and the measures everyone can take to tackle this global issue. 
+     Global Warning is an informative front end website explaning the major causes and effects that everyone is facing due to Global Warming. It also describes few solutions which can help maintain the balance. 
+     Additionally, it also provides a feature for interested users to signup and receive weekly notifications for any updates to the website. 
+     The site is targeted towards everyone to create awareness of the consequences and the measures everyone can take to tackle this global issue. 
 
 -   ### User stories
 
