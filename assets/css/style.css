@@ -360,14 +360,14 @@ br {
      height: auto;
     }
     #logo {
-        font-size: 200%;
+        font-size: 150%;
     }
     #hero-image {
         height: 300px;
     }
     #list {
         letter-spacing: 0px;
-        font-size: 85%;
+        font-size: 70%;
     }
     .left, .center, .right {
         margin: 10px;
@@ -387,7 +387,7 @@ br {
         text-align: center;
         display: inline;
         height: 60%;
-        margin: 160px 0px 5px;
+        margin: 190px 0px 5px;
         padding: 10px;
     }
 
